@@ -4,7 +4,7 @@ Hello! 👋
 
 This is a MicroPython driver for the **Sensirion SHT2x** temperature and humidity sensor, designed for the **Raspberry Pi Pico** series (RP2040 and RP2350).
 
-The driver is intended to be used with the included `sensor.py` example. Make sure to upload both the driver file to your Pico before running the example.
+The driver is intended to be used with the included `sensor.py` example. Make sure to upload the driver file to your Pico before running the example.
 
 ## Features
 
