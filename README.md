@@ -1,2 +1,15 @@
 # raspberry-pi-pico-sht2x
-this is a raspberry opiu pico 2 w code for a sht2x sencor ! it also inclueds serial aout out so you can connetc to other diveces such as arduinos esp32's ( for arduinos please use a logic level shifter)
+hello ! this is a code for teh rasobreyy pi pico sires ! 
+it is used by teh sencor.py code and you muat upload the driver code to you pico .
+also this has teh `tx` and `rx` featurs over sireal ( witch i personaly used to send info throu serial to my arduino )
+
+
+⚠️ WARNING ⚠️
+
+**YOU MUST USE A PROPER LOGIC LEVEL SHIFTER (OR ANOTHER SAFE VOLTAGE TRANSLATION METHOD) WHEN CONNECTING THIS LIBRARY OR A RASPBERRY PI PICO TO ANY 5 V DEVICE. FAILURE TO DO SO MAY PERMANENTLY DAMAGE YOUR HARDWARE.**
+
+**THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, AS DESCRIBED IN THE APACHE LICENSE 2.0.**
+
+**THE AUTHORS PROVIDE NO GUARANTEE THAT THIS SOFTWARE IS SUITABLE FOR YOUR APPLICATION. YOU ARE SOLELY RESPONSIBLE FOR VERIFYING YOUR WIRING, VOLTAGE LEVELS, AND SAFE OPERATION OF YOUR HARDWARE.**
+
+**THE AUTHORS SHALL NOT BE HELD RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, HARDWARE FAILURE, OR OTHER ISSUES RESULTING FROM THE USE OR MISUSE OF THIS SOFTWARE.**
