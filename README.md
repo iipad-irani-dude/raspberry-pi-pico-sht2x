@@ -12,6 +12,8 @@ The driver is intended to be used with the included `sensor.py` example. Make su
 * 🔄 Includes optional UART (`TX`/`RX`) support for sending sensor data over serial.
 * 🤖 Originally developed for using a sht2x sencor and can be used for sending sensor readings from a Raspberry Pi Pico to an Arduino, but it can be used with any compatible serial device.
 
+  also , some guys on this furom https://forum.fritzing.org/t/raspberry-pi-pico-2w/27192/6 help me get the pi pico for the diagram on fritzinng app that i used for diagram making big shoutouts to them for making that file .
+
 ---
 
 # ⚠️ WARNING ⚠️
