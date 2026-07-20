@@ -11,7 +11,6 @@ The driver is intended to be used with the included `sensor.py` example. Make su
 * 📡 Reads temperature and humidity from SHT2x sensors over I²C.
 * 🔄 Includes optional UART (`TX`/`RX`) support for sending sensor data over serial.
 * 🤖 Originally developed for using a sht2x sencor and can be used for sending sensor readings from a Raspberry Pi Pico to an Arduino, but it can be used with any compatible serial device.
-
 * the diagram ( the leds are optioinal but are in the code :) )
 
 ![Compiler Diagram](diagram.png)
