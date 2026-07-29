@@ -10,6 +10,15 @@ The driver is simple to use and includes an example (`sensor.py`) that demonstra
 
 ---
 
+```text
+       .-/+oossssoo+/-.        user@ubuntu
+    `:+ssssssssssssssssss+:`     OS: Ubuntu
+  -+ssssssssssssssssssyyssss+-   Kernel: Linux
+ .ossssssssssssssssssdMMMNyso.  CPU: ...
+ /ssssssssssshdmmNNmmyNssssss/  RAM: ...
++ssssssssshmydMMMMMMMNssssssss+
+```
+
 ## Features
 
 * 🌡 Reads temperature from an SHT20 sensor.
