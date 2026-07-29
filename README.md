@@ -1,11 +1,14 @@
 # Raspberry Pi Pico SHT20 Driver
 
 A lightweight **MicroPython** driver for the **Sensirion SHT20** temperature and humidity sensor, designed for the **Raspberry Pi Pico** family (RP2040 and RP2350).
-
-:+ssssssssssss+
-
-MMMMMMMMMNNNN
-
+<svg xmlns="http://www.w3.org/2000/svg">
+<text x="10" y="30" fill="cyan">
+:+ssssssssssssss+
+</text>
+<text x="10" y="60" fill="purple">
+MMMMMMMMNNNN
+</text>
+</svg>
 
 
 
