@@ -2,22 +2,19 @@
 
 A lightweight **MicroPython** driver for the **Sensirion SHT20** temperature and humidity sensor, designed for the **Raspberry Pi Pico** family (RP2040 and RP2350).
 
+:+ssssssssssss+
+
+MMMMMMMMMNNNN
+
+
+
+
+
+
+
 The driver is simple to use and includes an example (`sensor.py`) that demonstrates reading sensor data and optionally transmitting it over UART.
-
 > **Note**
->
 > This driver was developed and tested with the **SHT20** sensor. It may also work with other sensors in the **SHT2x** family (such as the SHT21 and SHT25), but these have not been tested.
-
----
-
-```text
-       .-/+oossssoo+/-.        user@ubuntu
-    `:+ssssssssssssssssss+:`     OS: Ubuntu
-  -+ssssssssssssssssssyyssss+-   Kernel: Linux
- .ossssssssssssssssssdMMMNyso.  CPU: ...
- /ssssssssssshdmmNNmmyNssssss/  RAM: ...
-+ssssssssshmydMMMMMMMNssssssss+
-```
 
 ## Features
 
